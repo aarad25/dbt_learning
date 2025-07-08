@@ -1,3 +1,3 @@
 
 
-select "hello" as mesg;
+select 'hello' as mesg
