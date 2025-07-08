@@ -1,3 +1,0 @@
-
-
-select 'hello' as mesg
